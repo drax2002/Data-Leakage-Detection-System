@@ -1,0 +1,8 @@
+1) Copy this folder at your xampp/htdocs folder.
+2) Create new database with named "data_leakage"
+
+3) there will be default user admin
+
+email: admin@gmail.com
+password: 12345
+
